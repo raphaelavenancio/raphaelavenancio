@@ -18,7 +18,7 @@
 <img align="left" alt="E-mail" src="https://img.shields.io/badge/-Fale%20comigo%20por%20aqui-red"/>
 </a>
 
-a href="https://www.instagram.com/venanciosrta/">
+<a href="https://www.instagram.com/venanciosrta/">
 
 <img align="left" alt="Instagram" src="https://img.shields.io/badge/-Raphaela%20Venancio-pink"/>
 </a>
