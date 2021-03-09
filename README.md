@@ -20,7 +20,7 @@
 
 <a href="https://www.instagram.com/venanciosrta/">
 
-<img align="left" alt="Instagram" src="https://img.shields.io/badge/-Raphaela%20Venancio-#E1306C;"/>
+<img align="left" alt="Instagram" src="https://img.shields.io/badge/-Raphaela%20Venancio-#E1306C"/>
 </a>
 
 <br/>
