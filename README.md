@@ -1,16 +1,25 @@
-### Hi there 👋
+<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250"/>
 
-<!--
-**raphaelavenancio/raphaelavenancio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! 🤘 Seja muito bem vindo ao meu perfil! 👋🥰
+- 🚀 Sou estudante de Gestão de TI.
+- Apaixonada por dev Full Stack.
+- 💻 Estudando: HTML5, CSS3, JavaScript, SQLServer.
+- Tenho 22 anos, moro em Juiz de Fora.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://www.linkedin.com/in/raphaelavenancio">
+
+<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/-Raphaela%20Venancio-blue"/>
+</a>
+<a href="mailto:raphaelavenancio.dev@gmail.com">
+
+
+<img align="left" alt="E-mail" src="https://img.shields.io/badge/-Fale%20comigo%20por%20aqui-red"/>
+</a>
+
+<br/>
+
+
+
+
