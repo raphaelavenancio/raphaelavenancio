@@ -1,10 +1,11 @@
 <img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250"/>
 
-### Olá! 🤘 Seja muito bem vindo ao meu perfil! 👋🥰
+### Olá! 🤘 Seja muito bem vindo ao meu perfil! 👋
 - 🚀 Sou estudante de Gestão de TI.
-- Apaixonada por dev Full Stack.
+- 🥰Cursando desenvolvimento Full Stack.
 - 💻 Estudando: HTML5, CSS3, JavaScript, SQLServer.
-- Tenho 22 anos, moro em Juiz de Fora.
+- Tenho 22 anos, moro em Juiz de Fora -MG.
+- Brasil.
 
 
 
