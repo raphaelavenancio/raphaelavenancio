@@ -3,8 +3,9 @@
 ### Olá! 🤘 Seja muito bem vindo ao meu perfil! 👋
 - 🚀 Sou estudante de Gestão de TI.
 - 🥰Cursando desenvolvimento Full Stack.
-- 💻 Estudando: HTML5, CSS3, JavaScript, SQLServer.
-- Tenho 22 anos, moro em Juiz de Fora -MG.
+- Skill: HTML5, CSS3, JavaScript
+- 💻 Estudando: React, NodeJS, SQLServer.
+- Tenho 24 anos, moro em Juiz de Fora -MG.
 - Brasil.
 
 
